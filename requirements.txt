@@ -1,6 +1,1 @@
 streamlit~=1.25.0
-argparse
-os.path
-shutil
-subprocess
-sys
